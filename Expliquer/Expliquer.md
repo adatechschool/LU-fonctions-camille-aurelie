@@ -1,7 +1,7 @@
 # Expliquer
 
 * SIGNATURE
-Ce sont les données utilisées pour déclarer une fonction.
+Correspond au nom et aux arguments de la fonction. Elle est ainsi unique, et évite les confusions entre fonctions. Attention : la composition de cette signature dépend du langage.
 
 * DECLARATION
 Se dit lorsqu'on utilise la syntaxe spécifique à la création d'une fonction.
@@ -30,7 +30,7 @@ Ex :
   loop(0) ;
 
 * PILE D'APPEL
-
+Correspond à la liste des instructions et à son ordre. Cette notion est utile notamment sur le temps d'execution.
 
 
 * FONCTIONS ANONYMES

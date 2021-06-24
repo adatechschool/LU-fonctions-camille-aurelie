@@ -1,0 +1,7 @@
+function odds(values){
+ 
+ // var x = [];   
+  return values.filter(x => (x%2 == 1));
+}
+
+ var values = [1, 2, 3, 4, 5] ;
